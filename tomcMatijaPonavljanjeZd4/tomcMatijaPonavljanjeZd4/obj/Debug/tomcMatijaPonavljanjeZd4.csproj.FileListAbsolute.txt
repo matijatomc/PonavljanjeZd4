@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd4\tomcMatijaPonavljanjeZd4\bin\Debug\tomcMatijaPonavljanjeZd4.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd4\tomcMatijaPonavljanjeZd4\bin\Debug\tomcMatijaPonavljanjeZd4.exe
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd4\tomcMatijaPonavljanjeZd4\bin\Debug\tomcMatijaPonavljanjeZd4.pdb
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd4\tomcMatijaPonavljanjeZd4\obj\Debug\tomcMatijaPonavljanjeZd4.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd4\tomcMatijaPonavljanjeZd4\obj\Debug\tomcMatijaPonavljanjeZd4.exe
+C:\Users\Matija\source\repos\tomcMatijaPonavljanjeZd4\tomcMatijaPonavljanjeZd4\obj\Debug\tomcMatijaPonavljanjeZd4.pdb
